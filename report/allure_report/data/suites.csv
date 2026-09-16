@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 16 14:05:25 CST 2026","Wed Sep 16 14:05:25 CST 2026","140","script","test_reg","Test_RegApi","","","test_Reg[reginfo2]",""
+"passed","Wed Sep 16 14:05:25 CST 2026","Wed Sep 16 14:05:25 CST 2026","282","script","test_reg","Test_RegApi","","","test_Reg[reginfo1]",""
+"failed","Wed Sep 16 14:05:24 CST 2026","Wed Sep 16 14:05:24 CST 2026","406","script","test_reg","Test_RegApi","","","test_Reg[reginfo0]",""

@@ -1,0 +1,26 @@
+[
+  {
+    "userName": "pppq11",
+    "password": "111111q11",
+    "realName": "popo111",
+    "msg":"操作成功！",
+    "msg_in": "存在",
+    "code": 0
+  },
+  {
+    "userName": "ppp01q1",
+    "password": "222222q1",
+    "realName": "popo21",
+    "msg":"操作成功！",
+    "msg_in": "成功",
+    "code": 1
+  },
+  {
+    "userName": "ppp03111",
+    "password": "333333111",
+    "realName": "popo31",
+    "msg":"用户名已存在，换一个吧！",
+    "msg_in": "成功",
+    "code": 1
+  }
+]
